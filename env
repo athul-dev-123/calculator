@@ -1,0 +1,8 @@
+<script>start("/Users/macos/Desktop/calculator python/env/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bin","bin",1,384,"384 B",1746626139,"07/05/2025, 19:25:39");</script>
+<script>addRow("include","include",1,96,"96 B",1746626134,"07/05/2025, 19:25:34");</script>
+<script>addRow("lib","lib",1,96,"96 B",1746626134,"07/05/2025, 19:25:34");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1746632914,"07/05/2025, 21:18:34");</script>
+<script>addRow(".gitignore",".gitignore",0,69,"69 B",1746626134,"07/05/2025, 19:25:34");</script>
+<script>addRow("pyvenv.cfg","pyvenv.cfg",0,279,"279 B",1746626134,"07/05/2025, 19:25:34");</script>
