@@ -1,2 +1,1 @@
-# calculator
-calculator project
+# calc
